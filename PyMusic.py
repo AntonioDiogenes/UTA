@@ -37,7 +37,7 @@ def downloadMp4():
 
 main_windown = Tk()
 main_windown.title("PyMusic")
-img = PhotoImage(file='C:/Users/anton/Documents/01_IFRN/PyMusic/IMG/python_logo.png')
+img = PhotoImage(file='.../IMG/python_logo.png')
 main_windown.iconphoto(True,img)
 
 #cria um label com um texto
